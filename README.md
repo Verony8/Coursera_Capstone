@@ -5,9 +5,9 @@ This notebook is for the assignment of Coursera course Applied Data Science Caps
 This is another Feature from swift 
 
 ```swift
-var huni: String = "Veronica"
-if huni == "Veronica" {
-    print("Das ist ein swift code")
+var huni: String = "Claudius"
+if huni == "Claudius" {
+print("Du wirst ein Mergekonflikt haben :-)")
 } 
 ```
 
